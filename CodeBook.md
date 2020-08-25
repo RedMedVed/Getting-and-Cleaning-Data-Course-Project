@@ -5,16 +5,14 @@ Dataset downloaded and extracted under the folder called UCI HAR Dataset
 
 **2) Creates dataframes from all files except Inertial signals**
 
-Variable | Definition
----------------------
-xTrain   | Training set.
-xTest    | Test set.
-yTrain   | Training labels.
-yTest    | Test labels.
-subTrain | The subject who performed the activity for each window sample. 
-subTest  | The subject who performed the activity for each window sample. 
-activity | List of activities performed.
-features | List of all features.
++ xTrain - Training set.
++ xTest - Test set.
++ yTrain - Training labels.
++ yTest - Test labels.
++ subTrain - The subject who performed the activity for each window sample. 
++ subTest - The subject who performed the activity for each window sample. 
++ activity - List of activities performed.
++ features - List of all features.
 
  
 **3) Merges the training and the test sets to create one data set**
