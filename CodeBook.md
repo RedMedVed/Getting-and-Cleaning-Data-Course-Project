@@ -1,4 +1,4 @@
-####The run_analysis.R script performs the data preparation and modifying according to the task of Course project:
+#### The run_analysis.R script performs the data preparation and modifying according to the task of Course project:
 
 **1) Gets raw data**
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
