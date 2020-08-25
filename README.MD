@@ -4,7 +4,7 @@ This repository is a RedMedVed (Sukharkov Maxim) submission for Getting and Clea
 
 #### Dataset
 
-[Human Activity Recognition Using Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+[Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 #### Files
 
