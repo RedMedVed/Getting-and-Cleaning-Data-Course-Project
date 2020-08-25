@@ -1,4 +1,4 @@
-#### The run_analysis.R script performs the data preparation and modifying according to the task of Course project:
+### The run_analysis.R script performs the data preparation and modifying according to the task of Course project:
 
 **1) Gets raw data**
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
@@ -34,5 +34,5 @@ Columns' names renamed to avoid duplication (like BodyBody) and shortnames for d
 
 **7) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject**
 
-AverageData is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after grouping by subject and activity.
-Export AverageData and TidyData to text files, both are pushed to this repo.
+*AverageData* is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after grouping by subject and activity.
+Export *AverageData* and *TidyData* to text files, both are pushed to this repo.
